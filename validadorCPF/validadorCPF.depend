@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586990975 source:c:\users\igor\onedrive - univali\algoritimos e progamação 1ª fase\validadorcpf\main.cpp
+	<iostream>
+	<locale.h>
+
